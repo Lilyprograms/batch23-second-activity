@@ -64,3 +64,29 @@
   margin-top: 30px;
   text-decoration: none;
 }
+.SU1{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.SU1 h1{
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+.SU1-text-container{
+  display: flex;
+  margin-top: 50px;
+  gap: 30px;
+}
+.SU1-text{
+  padding: 30px;
+  background-color: gray;
+  border-radius: 7px;
+}
+.SU1 img{
+  height: 500px;
+  /* width: 100%; */
+  margin: 60px;
+}
