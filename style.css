@@ -3,3 +3,27 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
+.more_section{
+display: grid;
+
+}
+
+.more_header{
+justify-content: center;
+margin: 30px;
+padding: 30px;
+font-size: larger;
+}
+
+.more_body{
+display: grid;
+justify-content: left;
+
+}
+
+.more_final{
+color: brown;
+justify-content: center;
+display: flex;
+}
