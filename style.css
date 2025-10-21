@@ -186,3 +186,19 @@
   justify-content: center;
   display: flex;
 }
+.section1 {
+  display: flex;
+  width: 90px;
+  margin: auto;
+  align-items: center;
+  text-align: center;
+}
+.link {
+  height: 200px;
+  text-align: left;
+}
+.lang {
+  height: 200px;
+  text-align: right;
+}
+
