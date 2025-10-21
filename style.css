@@ -3,3 +3,28 @@
   padding: 0px;
   box-sizing: border-box;
 }
+.logo-container{
+  background-color: rgb(237, 239, 241);
+  box-shadow: 2px 2px 2px rgba(255, 255, 255, 0.5);
+  
+}
+.company-logo{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.company-logo img{
+  width: 100px;
+}
+.kenny-details{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.kenny-details img{
+  width: 400px;
+}
+.company-name{
+  color: tomato;
+}
