@@ -3,3 +3,40 @@
   padding: 0px;
   box-sizing: border-box;
 }
+.lydia_section {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), url(./images/slider-image2.jpg);
+  background-size: cover;
+  min-height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.lydia_content {
+  width: 50%;
+  min-width: 300px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  margin: 0;
+}
+.lydia_content h3 {
+  font-size: 50px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.lydia_content p {
+  line-height: 1.7;
+  color: #6d6d6d;
+}
+.lydia_content a {
+  padding: 10px 30px;
+  font-size: 13px;
+  background-color: black;
+  color: #ffffff;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 30px;
+  text-decoration: none;
+}
