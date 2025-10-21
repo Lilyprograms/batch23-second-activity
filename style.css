@@ -3,3 +3,10 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
+.text h1{
+color: black;
+}
+.text p{
+  color: blue;
+}
