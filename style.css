@@ -159,3 +159,10 @@
   justify-content: center;
   color: white;
 }
+
+.text h1{
+color: black;
+}
+.text p{
+  color: blue;
+}
