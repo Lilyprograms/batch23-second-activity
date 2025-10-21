@@ -1,0 +1,28 @@
+.series_cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    width: 80%;
+    margin: auto;
+}
+.series_card{
+height: 200px;
+width: 200px;
+}
+.series_card1{
+    background-color: red;
+}
+.series_card2{
+    background-color: blue;
+}
+.series_card3{
+    background-color: yellow;
+}
+.series_card4{
+    background-color: green;
+}
+.series_images{
+background-color: grey;
+text-align: center;
+
+}
