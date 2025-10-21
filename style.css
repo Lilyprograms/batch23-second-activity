@@ -32,6 +32,12 @@
 
 .truck-details h1 {
   font-family: 'DM Sans', sans-serif;
+  margin-bottom: 10px;
+}
+
+.truck-details p {
+  font-family: 'DM Sans', sans-serif;
+  margin-bottom: 10px;
 }
 
 .truck-actions {
