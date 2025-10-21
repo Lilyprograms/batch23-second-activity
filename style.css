@@ -1,5 +1,41 @@
-* {
-  margin: 0px;
-  padding: 0px;
-  box-sizing: border-box;
+
+.murad_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #1a1a1a;
+  font-family: Arial, sans-serif;
+  color: #ffffff;
+  padding: 20px;
+}
+
+
+.murad_content {
+  background-color: #2c2c2c;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  text-align: center;
+  max-width: 500px;
+  width: 100%;
+}
+
+
+.murad_content img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  border: 3px solid #ff4500;
+  object-fit: cover;
+}
+
+.murad_content h1 {
+  font-size: 2.5em;
+  color: #ff4500;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
